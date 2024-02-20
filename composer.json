@@ -1,0 +1,15 @@
+{
+    "name": "bytes4run/modular",
+    "autoload": {
+        "psr-4": {
+            "Bytes4run\\Modular\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JorgeDS",
+            "email": "jrivera@piensads.com"
+        }
+    ],
+    "require": {}
+}
